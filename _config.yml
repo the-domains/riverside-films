@@ -1,0 +1,28 @@
+name: Riverside Films
+favicon: null
+layout_spectrum: 0.13145805848762393
+typography_spectrum: 0.1390504091978073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#902223'
+    - '#c9c9c9'
+    - '#797979'
+  brandStrength: 0.6796101767104119
+  lightness: 0.2955102517735213
+  saturation: 0.8922271556220949
+  rhythmicContrast: 0.47069659805856645
+purpose: []
