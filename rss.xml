@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RIVERSIDE FILMS]]></title>
         <description><![CDATA[RIVERSIDE FILMS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/riverside-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 16:24:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 20:05:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/riverside-films/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b21d463-64df-434f-8a7a-c47d64f8a03f.jpg">]]></description>
-            <link>undefinedb8ca0ae6-bd03-4aa8-ab83-6876cdd7772f/index.html</link>
+            <link>https://thegrid.ai/riverside-films/b8ca0ae6-bd03-4aa8-ab83-6876cdd7772f/index.html</link>
             <guid isPermaLink="false">b8ca0ae6-bd03-4aa8-ab83-6876cdd7772f</guid>
-            <pubDate>Thu, 11 Feb 2016 16:23:16 GMT</pubDate>
+            <pubDate>Fri, 12 Feb 2016 20:05:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
